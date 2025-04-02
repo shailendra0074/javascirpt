@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JavaScript Introduction</title>
-</head>
-<body>
     Q: 1 What is JavaScript?
     Answer: JavaScript is a Progromming language used to make 
     website intractive and dynamix.
@@ -30,5 +22,24 @@
 
     Today javascript used everywhere- on the front end (e.g. website)
     and back end (e.g. servers with node.js)
-</body>
-</html>
+
+    where does javascript run?
+    in browsers
+    build in engine executes javascirpt (e.g. v8 in crome)
+    work on browsers like chrome, firefox, safari, and edge.
+
+    on servers
+    with node.js, javascript can run on servers, allow to full stack
+    development.
+
+    what JavaScript can do:
+
+    Update content dynamically (e.g., live news feeds).
+
+Respond to user actions like clicks, typing, or scrolling.
+
+Perform animations (e.g., slideshows, fading effects).
+
+Communicate with servers to load/save data (e.g., APIs).
+
+Build full applications (web, mobile, and desktop).
