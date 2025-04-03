@@ -34,4 +34,5 @@ let products = [
   products.forEach(product => {
     console.log(product.name, product.price);
   });
+
   
